@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok_button">OK</string>
+    <string name="question_input_hint">input question</string>
+    <string name="answer_input_hint">input answer</string>
+    <string name="answer">answer</string>
+</resources>
