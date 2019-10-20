@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабораторная работа 2</string>
+    <string name="action_settings">настройки</string>
+    <string name="answer"><font size="15">ваш ответ</font></string>
+    <string name="answer_input_hint">введите свой ответ</string>
+    <string name="ok_button">ок</string>
+    <string name="question_input_hint">введите ваш вопрос</string>
+</resources>

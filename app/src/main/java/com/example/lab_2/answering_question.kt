@@ -1,10 +1,9 @@
-package com.example.lab_1
+package com.example.lab_2
 
 import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
 import kotlinx.android.synthetic.main.activity_answering_question.*
 
 
